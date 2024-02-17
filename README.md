@@ -1,6 +1,6 @@
+Android App
+
 Android App built in Android Studio using JetpackCompose (University Assignment).
-
-
 Note - This app is focused on function not design.
 
 ![image](https://github.com/AshleyKeeling/BarrysBurritoBar/assets/64593369/bed636a1-c647-40bb-a3cf-6ec204b9c003)
