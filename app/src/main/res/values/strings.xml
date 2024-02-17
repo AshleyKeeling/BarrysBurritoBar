@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Barry\'s Burritos Bar</string>
+    <string name="established_name">Est. 2012</string>
+    <string name="home_screen_description">Barry\'s Burrito Bar in Stoke-on-Trent serves flavourful burritos with a unique blend of fresh ingredients.</string>
+    <string name="home_screen_subheading">Popular Burritos</string>
+    
+    <!-- screens -->
+    <string name="home_screen">Home</string>
+    <string name="pre_made_burritos_screen">Burritos</string>
+    <string name="custom_made_burrito_screen">Custom Burrito</string>
+    <string name="basket_screen">Basket</string>
+</resources>
